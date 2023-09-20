@@ -1,14 +1,14 @@
-# LargeLanguageModels-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# LargeLanguageModel-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](resources/image8.gif)
+![](https://github.com/Hannibal046/Awesome-LLM/blob/main/resources/image8.gif)
 
-🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
+🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially those relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
 ## Updates
 
 - [2023-07-01] Add some open-source models: Aquila, Chatglm2, Ultra-LM
 - [2023-07-01] Add some deploying tools: vLLM, Text Generation Inference
-- [2023-07-01] Add some great post about LLM from Yao Fu, Lilian and Andrej
+- [2023-07-01] Add some great posts about LLM from Yao Fu, Lilian, and Andrej
 
 ### ToDos
 
