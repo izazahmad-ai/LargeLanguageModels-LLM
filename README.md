@@ -1,6 +1,6 @@
 # LargeLanguageModel-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![](https://github.com/Hannibal046/Awesome-LLM/blob/main/resources/image8.gif)
+![](https://github.com/izazahmad-ai/LargeLanguageModels-LLM/blob/main/tree.gif)
 
 🔥 Large Language Models(LLM) have taken the ~~NLP community~~ ~~AI community~~ **the Whole World** by storm. Here is a curated list of papers about large language models, especially those relating to ChatGPT. It also contains frameworks for LLM training, tools to deploy LLM, courses and tutorials about LLM and all publicly available LLM checkpoints and APIs.
 
